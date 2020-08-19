@@ -1,0 +1,17 @@
+package HalloWorld;
+
+/**
+ *
+ * @Author Mecry
+ * @Version 1.2020601
+ *
+ */
+
+public class HalloWorld {
+    public static void main(String[] args) {
+        //程序入口，开始执行处
+
+        //输出“Hallo, World! ”
+        System.out.println("Hallo, World! ");
+    }
+}
