@@ -1,4 +1,4 @@
 # MyJavaCodes
-Hallo!I'm Mecry!!!
-This is my Java Codes.It's my learn Java to use codes.Thanks!
-Welcome to read me!!!(I'm a Chinese)
+Hello! I am a chinese programmer Mecry!!!  
+They are my works when I learning java.  
+It may not so well but welcome to read this.
